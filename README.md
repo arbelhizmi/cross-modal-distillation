@@ -12,7 +12,7 @@ Our code was developed using Python 3.10. We recommend using a virtual environme
 
 If you use this software in your research, please cite it as follows:
 If you find this repository useful, please cite it as follows:
-```bibtex
+```text
 @misc{hizmi2026cross,
   title={Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology},
   author={Arbel Hizmi and Artemii Bakulin and Shai Bagon and Nir Yosef},
