@@ -235,3 +235,4 @@ dependencies:
       - yarl==1.20.1
       - zarr==2.18.3
       - zipp==3.23.0
+prefix: /home/projects/nyosef/arbelh/.conda/envs/cross_modal
