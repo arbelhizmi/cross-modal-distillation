@@ -24,13 +24,3 @@ If you find this repository useful, please cite it as follows:
   pages={6505-6514},
   url={https://arxiv.org/abs/2604.09076}
 }
-
-@misc{hizmi2026cross,
-  title={Cross-Modal Knowledge Distillation from Spatial Transcriptomics to Histology},
-  author={Arbel Hizmi and Artemii Bakulin and Shai Bagon and Nir Yosef},
-  year={2026},
-  eprint={2604.09076},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV},
-  url={https://arxiv.org/abs/2604.09076}
-}
