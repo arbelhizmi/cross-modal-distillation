@@ -7,7 +7,7 @@ Official implementation of the paper "Cross-Modal Knowledge Distillation from Sp
 ### Setup
 Our code was developed using Python 3.10. We recommend using a virtual environment and installing the packages listed in `environment.yaml`
 
-Code would be available soon!
+Code would be available soon! (End of December)
 
 
 ### Citation
